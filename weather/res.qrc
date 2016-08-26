@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="UI0">images/UI.png</file>
+        <file alias="暴雪">images/暴雪.png</file>
+        <file alias="暴雨">images/暴雨.png</file>
+        <file alias="大暴雨">images/大暴雨 .png</file>
+        <file alias="大雪">images/大雪.png</file>
+        <file alias="大雨">images/大雨.png</file>
+        <file alias="冻雨">images/冻雨.png</file>
+        <file alias="多云">images/多云.png</file>
+        <file alias="浮尘">images/浮尘.png</file>
+        <file alias="雷阵雨">images/雷阵雨.png</file>
+        <file alias="雷阵雨伴有冰雹">images/雷阵雨伴有冰雹.png</file>
+        <file alias="霾">images/霾.png</file>
+        <file alias="强沙尘暴">images/强沙尘暴.png</file>
+        <file alias="晴">images/晴.png</file>
+        <file alias="特大暴雨">images/特大暴雨.png</file>
+        <file alias="雾">images/雾.png</file>
+        <file alias="小雪">images/小雪.png</file>
+        <file alias="小雨">images/小雨.png</file>
+        <file alias="扬沙">images/扬沙.png</file>
+        <file alias="阴">images/阴.png</file>
+        <file alias="雨夹雪">images/雨夹雪.png</file>
+        <file alias="阵雪">images/阵雪.png</file>
+        <file alias="阵雨">images/阵雨.png</file>
+        <file alias="中雪">images/中雪.png</file>
+        <file alias="中雨">images/中雨.png</file>
+        <file alias="search">images/查找.png</file>
+        <file alias="close">images/关闭按钮.png</file>
+        <file alias="close_on">images/关闭按钮1.png</file>
+        <file alias="min_on">images/最小化.png</file>
+        <file alias="min">images/最小化1.png</file>
+        <file alias="icon">images/icon.ico</file>
+        <file alias="UI1">images/UI1.png</file>
+        <file alias="UI2">images/UI2.png</file>
+        <file alias="UI3">images/UI3.png</file>
+        <file alias="update">images/update.png</file>
+        <file alias="update_on">images/update_on.png</file>
+    </qresource>
+</RCC>
